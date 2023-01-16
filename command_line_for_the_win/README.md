@@ -1,12 +1,11 @@
 # Command Line For The Win
 
-Screenshots are attached for the [CMDCHALLENGE](https://cmdchallenge.com/).
-
+(https://cmdchallenge.com/).
 ## Solutions
 
-This repository contains projects from all three categories of the command-line challenge:
 
-### The [cmdchallenge](https://cmdchallenge.com/) with 42 tasks
+### The [cmdchallenge](https://cmdchallenge.com/)
+
 
 Task 1: echo 'hello world'
 
@@ -32,4 +31,4 @@ Task 11: find . -delete
 
 Task 12: find . -name '*.doc' -delete
 
-Task 13: grep 'GET' ./access.log
+Task 13: grep 'GET' ./access.loig
