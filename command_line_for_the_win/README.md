@@ -1,7 +1,7 @@
 # Command Line For The Win
 
 (https://cmdchallenge.com/).
-## Solutions
+### Solutions
 
 
 ### The [cmdchallenge](https://cmdchallenge.com/)
