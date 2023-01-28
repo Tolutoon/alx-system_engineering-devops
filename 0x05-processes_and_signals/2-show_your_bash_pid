@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# A Bash Script that displays the lines containing 
+# the bash word to allow easy getting of the PID
+
+ps -aux | grep bash
